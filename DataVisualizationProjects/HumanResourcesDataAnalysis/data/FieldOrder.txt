@@ -1,0 +1,5 @@
+Very poor, 1
+Poor, 2
+Average, 3
+Above Average, 4
+Exceptional, 5
