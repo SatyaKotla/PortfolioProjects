@@ -47,7 +47,7 @@ The dashboard is organized into the following key sections:
      ![Employee Filter by Letter](images/EmployeeFilterbyLetter.png) 
 17. **Performance vs Salary**: Allows for the analysis of the distribution between employee salaries and performance ratings.
 
-    ![Performance vs Salary](images/PerformancevsSalary.png) 
+    ![Performance vs Salary](images/PerformanceVsSalary.png) 
 19. **India Vs New Zealand Comparison**: Compares overall employee data based on country of origin, specifically between India and New Zealand, including key comparisons like top earners, average salary, headcount, and departmental distribution.
 
     ![India Vs New Zealand Comparison](images/IndVsNz.png) 
