@@ -21,16 +21,16 @@ The dashboard is divided into several key sections:
 1. **Sales Target Card:** Provides an overview of sales target metrics and includes key data such as total sales actual, total sales target, variance, and how many months the target has been met by the team.
 
    ![Sales Target Card](images/SalesTargetCard.png) 
-3. **Target Status Visual:** Displays detailed visualizations of monthly target status in the form of a chart (green indicates target achieved, and red indicates target not achieved).
+2. **Target Status Visual:** Displays detailed visualizations of monthly target status in the form of a chart (green indicates target achieved, and red indicates target not achieved).
 
    ![Target Status](images/MonthlySalesTrend.png) 
-5. **Column Chart:** Highlights the comparison of monthly sales targets and actual sales in the form of a column chart. It also displays the percentage difference between the actual sales and the target.
+3. **Column Chart:** Highlights the comparison of monthly sales targets and actual sales in the form of a column chart. It also displays the percentage difference between the actual sales and the target.
 
    ![Column Chart](images/ColumnChart.png) 
-7. **Table:** Helps in understanding key metrics such as actual sales, sales target, variance, trend analysis sparkline, and monthly target achievement status specific to a team member.
+4. **Table:** Helps in understanding key metrics such as actual sales, sales target, variance, trend analysis sparkline, and monthly target achievement status specific to a team member.
 
    ![Table](images/Table.png) 
-9. **Insights Box:** An auto-generated insights box provides key insights into the sales data overview, offering a narrative that makes it easy to grasp the overall data.
+5. **Insights Box:** An auto-generated insights box provides key insights into the sales data overview, offering a narrative that makes it easy to grasp the overall data.
 
    ![Insights Box](images/InsightsBox.png) 
 
